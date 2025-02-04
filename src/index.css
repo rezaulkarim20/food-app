@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.banner-bg {
+  background-image: url("../src/assets/images/Banner-4.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
