@@ -1,10 +1,10 @@
 import Image from "./Image";
-import Text from "./Clicnt";
+import Clicnt from "./Clicnt";
 
 const Review = () => {
   return (
     <div className="flex  flex-col sm:flex-row justify-between items-center  gap-10 p-6 ">
-      <Text />
+      <Clicnt />
       <Image />
     </div>
   );

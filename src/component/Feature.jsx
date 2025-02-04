@@ -1,5 +1,5 @@
 import Image from "./Image";
-import Text from "./Clicnt";
+import Clicnt from "./Clicnt";
 
 const Feature = () => {
   return (
@@ -9,7 +9,7 @@ const Feature = () => {
       </h2>
       <div className="flex  flex-col sm:flex-row justify-between items-center  gap-10 p-6 ">
         <Image />
-        <Text />
+        <Clicnt />
       </div>
     </di>
   );
