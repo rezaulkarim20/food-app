@@ -1,6 +1,6 @@
 import Service from "./service";
 
-const Text = () => {
+const Clicnt = () => {
   return (
     <div className="w-full ">
       <div className="w-full   p-4">
@@ -24,4 +24,4 @@ const Text = () => {
   );
 };
 
-export default Text;
+export default Clicnt;

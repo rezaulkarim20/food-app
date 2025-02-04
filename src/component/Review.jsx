@@ -1,5 +1,5 @@
 import Image from "./Image";
-import Text from "./Text";
+import Text from "./Clicnt";
 
 const Review = () => {
   return (
