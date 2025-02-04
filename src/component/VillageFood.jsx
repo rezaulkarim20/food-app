@@ -122,7 +122,6 @@ const VillageFood = () => {
         cheackOffer={cheackOffer}
       />
       <Feature />
-
       <Review />
       <Footer />
     </div>
